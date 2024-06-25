@@ -1,0 +1,14 @@
+{
+  "name": "pazer-app/data-report",
+  "description": "Pazer.app / Data Report",
+  "require": {
+    "php": ">=7.4",
+    "ext-mysqli": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "PazerApp\\DataReport\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
